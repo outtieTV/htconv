@@ -43,11 +43,9 @@ No additional packages are required for HTS/HTC conversion without PNG operation
 Example:
 
 ```powershell
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
-```
-
-Replace `YOUR_USERNAME/YOUR_REPOSITORY` with your GitHub repository path.
+git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git](https://github.com/outtieTV/htconv.git)
+cd htconv
+``
 
 ## Usage
 
